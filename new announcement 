@@ -1,4 +1,4 @@
-@@ -25,6 +25,10 @@ Further details on CLI us age are available in the [CLI User Guide]
+to@@ -25,6 +25,10 @@ Further details on CLI us age are available in the [CLI User Guide]
 
 (https://docs.
 
@@ -10,7 +10,7 @@ binary file: endless.exe, md5 checksum: a57ab419083f3e2f3ea66506dd2a2644
 
 27
 
-28 +## macOS 10.15 or above
+28 +## macOS 10.15 or abov
 
 29 + release zip file: endless-cli-darwin.zip
 
@@ -18,7 +18,7 @@ binary file: endless.exe, md5 checksum: a57ab419083f3e2f3ea66506dd2a2644
 
 da29ed688e21be92cad7e16a5fdfd522
 
-31 +
+31 +raj
 
 32
 
