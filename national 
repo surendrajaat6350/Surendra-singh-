@@ -1,0 +1,53 @@
+@@ -1,62 +1,58 @@
+
+1
+
+# endless-releases
+
+2
+
+3 This repository contains:
+
+4
+
+Endless pre-compiled binaries, including endless CLI, endless-node
+
+4 +- Endless pre-compiled binaries, including `endless CLI, endless-node
+
+, please refer to the [Releases) (https://github .com/endless-labs/endless-release/releases)
+
+page for downloads.
+
+](#endless-genensis-blob-and-w
+
+5 Endless [genensis blob and waypoint
+
+aypoint-for-different-networks
+
+)
+
+6
+
+## Endless CLI 7
+
+8 The Endless command line interface (CLI) is a t ool to help you compile and test Move contracts. It can also help you quickly play with Endless features on-chain.
+
+9
+
+10
+
+11
+
+Further details on CLI usage are available in the [CLI User Guide] (https://docs.endless.link /endless/devbuild/build/endless-cli).
+
+12 -### Alibaba Cloud Linux 3
+
+13
+
+release zip file: endless-cli-AliCloud3-x86_64.zip
+
+14 binary file: "endless", md5 checksum: 9de102f8ed3617411c7990f0d1be133e
+
+12 +Latest endless-cli version: 1.0.3
+
+13
